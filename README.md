@@ -1,4 +1,4 @@
-# XRP SigVerify: Blockchain Signature Validation Platform 📜🔒
+# SecureSignX: Blockchain-Powered Document Verification with XRP Integration
 
 Your premier platform for secure and transparent document signing and signature validation powered by the [XRP Ledger](https://xrpl.org). In an era defined by digital transactions, the integrity and authenticity of important documents are of utmost importance. While traditional methods falter in transparency and are prone to tampering, XRP SigVerify rises above by leveraging the robust features of blockchain technology.
 
